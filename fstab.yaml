@@ -1,7 +1,0 @@
-mountpoints:
-  /:
-    url: https://content.da.live/leah/citisignal-accs-eds/
-    type: markup
-
-folders:
-  /products/: /products/default
